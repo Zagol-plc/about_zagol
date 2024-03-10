@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"","author":"google1573816215","subject":"","keywords":"","creator":"WPS Writer","producer":"","creationdate":"D:20240310081329+05'13'","moddate":"D:20240310081329+05'13'","trapped":"False","fileName":"about_zagol.pdf","bounds":[[909,1286]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
